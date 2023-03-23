@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Fips1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Fips1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\Software\\Introduction to C#\\FinishProject\\FinishProject.csproj",
+      "projectUniqueName": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\Software\\Introduction to C#\\finishprojectspec\\FinishProject.csproj",
       "projectName": "FinishProject",
-      "projectPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\Software\\Introduction to C#\\FinishProject\\FinishProject.csproj",
+      "projectPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\Software\\Introduction to C#\\finishprojectspec\\FinishProject.csproj",
       "packagesPath": "C:\\Users\\Fips1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\Software\\Introduction to C#\\FinishProject\\obj\\",
+      "outputPath": "C:\\Users\\Fips1\\OneDrive\\Рабочий стол\\All prog\\Software\\Introduction to C#\\finishprojectspec\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\Fips1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

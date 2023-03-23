@@ -1,21 +1,13 @@
-﻿int n = Convert.ToInt32(Console.ReadLine());
-string[] array = new string[n];
-void FillArray(string[] matr)
-{
-    for (int i = 0; i < matr.Length; i++)
-    {
-        matr[i] = Console.ReadLine();
-    }
-}
-FillArray(array);
+﻿string[] array = {"hello", "privet", "231", "pr", "hey"};
 void ArrayThreeNum(string[] matr)
 {
     for (int i = 0; i < matr.Length; i++)
     {
         if(matr[i].Length <= 3)
         {
-            Console.WriteLine(matr[i]);
+            Console.Write($"{matr[i]} ");
         }
     }
 }
+Console.WriteLine("Строки, число символов в которых равно или менее трёх: ");
 ArrayThreeNum(array);
